@@ -1,0 +1,35 @@
+#h1 {
+    font-weight: 800;
+    padding: 20px 0 30px 0;
+    text-align: center;
+}
+
+.nav {
+    display: inline;
+    margin: 50px;
+    cursor: pointer;
+}
+
+.box{
+    margin: 0 auto;
+    width: 90%;
+    padding: 30px 0;
+}
+
+.articleBox {
+    margin: 20px;
+    padding: 50px 0 60px 30px;
+    border: 1px solid black;
+}
+
+#text {
+    width: 50%;
+}
+
+.img {
+    margin-top: -150px;
+    margin-right: 80px;
+    float: right;
+    width: 300px;
+    height: 200px;
+}
